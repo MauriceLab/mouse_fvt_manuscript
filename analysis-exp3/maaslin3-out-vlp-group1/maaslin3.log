@@ -1,0 +1,165 @@
+2026-02-26 15:51:21.846109 INFO::Writing function arguments to log file
+2026-02-26 15:51:21.847472 DEBUG::Function arguments
+2026-02-26 15:51:21.847869 DEBUG::Output folder: maaslin3-out-vlp-group1
+2026-02-26 15:51:21.848336 DEBUG::Formula: ~ PrePostFVT + (1 | AnimalID)
+2026-02-26 15:51:21.848572 DEBUG::Fixed effects:
+2026-02-26 15:51:21.848911 DEBUG::Reference:
+2026-02-26 15:51:21.849212 DEBUG::Random effects:
+2026-02-26 15:51:21.84945 DEBUG::Group effects:
+2026-02-26 15:51:21.849671 DEBUG::Ordered effects:
+2026-02-26 15:51:21.849884 DEBUG::Strata effects:
+2026-02-26 15:51:21.850113 DEBUG::Min Abundance: 0.000000
+2026-02-26 15:51:21.850315 DEBUG::Min Prevalence: 0.000000
+2026-02-26 15:51:21.85051 DEBUG::Max Prevalence: 1.010000
+2026-02-26 15:51:21.850696 DEBUG::Zero Threshold: 0.000000
+2026-02-26 15:51:21.850882 DEBUG::Min variance: 0.000000
+2026-02-26 15:51:21.851063 DEBUG::Max significance: 0.100000
+2026-02-26 15:51:21.851242 DEBUG::Normalization: NONE
+2026-02-26 15:51:21.851421 DEBUG::Transform: LOG
+2026-02-26 15:51:21.851603 DEBUG::Correction method: BH
+2026-02-26 15:51:21.851809 DEBUG::Standardize: TRUE
+2026-02-26 15:51:21.852013 DEBUG::Abundance median comparison: TRUE
+2026-02-26 15:51:21.852206 DEBUG::Prevalence median comparison: FALSE
+2026-02-26 15:51:21.852393 DEBUG::Abundance median comparison threshold: 0
+2026-02-26 15:51:21.852581 DEBUG::Prevalence median comparison threshold: 0
+2026-02-26 15:51:21.852765 DEBUG::Subtract median: FALSE
+2026-02-26 15:51:21.852952 DEBUG::Warn prevalence: TRUE
+2026-02-26 15:51:21.853139 DEBUG::Small random effects: FALSE
+2026-02-26 15:51:21.853326 DEBUG::Augment: TRUE
+2026-02-26 15:51:21.85351 DEBUG::Evaluate only:
+2026-02-26 15:51:21.853692 DEBUG::Cores: 8
+2026-02-26 15:51:21.853875 DEBUG::Balanced Summary plot: FALSE
+2026-02-26 15:51:21.854072 INFO::Verifying options selected are valid
+2026-02-26 15:51:21.854886 INFO::Determining format of input files
+2026-02-26 15:51:21.855539 INFO::Input format is data samples as columns and metadata samples as rows
+2026-02-26 15:51:21.858694 DEBUG::Transformed data so samples are rows
+2026-02-26 15:51:21.859251 DEBUG::A total of 26 samples were found in both the data and metadata
+2026-02-26 15:51:21.859549 INFO::The following samples were found to have metadata but no features (or feature specific covariates if applicable). They will be removed. VIVO8_FEC_VLP_FEB11_M26,VIVO8_FEC_VLP_FEB11_M27,VIVO8_FEC_VLP_FEB11_F28,VIVO8_FEC_VLP_FEB11_F29,VIVO8_FEC_VLP_FEB18_M26,VIVO8_FEC_VLP_FEB18_M27,VIVO8_FEC_VLP_FEB18_F28,VIVO8_FEC_VLP_FEB18_F29,VIVO8_FEC_VLP_FEB21_M26,VIVO8_FEC_VLP_FEB21_M27,VIVO8_FEC_VLP_FEB21_F28,VIVO8_FEC_VLP_FEB21_F29,VIVO8_FEC_VLP_FEB28_M26,VIVO8_FEC_VLP_FEB28_M27,VIVO8_FEC_VLP_FEB28_F28,VIVO8_FEC_VLP_FEB28_F29,VIVO8_FEC_VLP_MAR07_M26,VIVO8_FEC_VLP_MAR07_M27,VIVO8_FEC_VLP_MAR07_F28,VIVO8_FEC_VLP_MAR07_F29,VIVO8_FEC_VLP_APR02_M26,VIVO8_FEC_VLP_APR02_M27,VIVO8_FEC_VLP_APR02_F28,VIVO8_FEC_VLP_APR02_F29,VIVO8_FEC_VLP_JAN30_M23,VIVO8_FEC_VLP_JAN30_F24,VIVO8_FEC_VLP_JAN30_F25,VIVO8_FEC_VLP_FEB10_M23,VIVO8_FEC_VLP_FEB10_F24,VIVO8_FEC_VLP_FEB10_F25,VIVO8_FEC_VLP_FEB14_M23,VIVO8_FEC_VLP_FEB14_F24,VIVO8_FEC_VLP_FEB14_F25,VIVO8_FEC_VLP_FEB24_M23,VIVO8_FEC_VLP_FEB24_F24,VIVO8_FEC_VLP_FEB24_F25,VIVO8_FEC_VLP_FEB28_M23,VIVO8_FEC_VLP_FEB28_F24,VIVO8_FEC_VLP_FEB28_F25,VIVO8_FEC_VLP_MAR25_M23,VIVO8_FEC_VLP_MAR25_F24,VIVO8_FEC_VLP_MAR25_F25,VIVO8_FEC_VLP_DEC30_F2,VIVO8_FEC_VLP_JAN06_F12,VIVO8_FEC_VLP_JAN17_F2,VIVO8_FEC_VLP_JAN23_F12,VIVO8_VLP_DONOR1,VIVO8_VLP_DONOR2
+2026-02-26 15:51:21.860057 DEBUG::Reordering data/metadata to use same sample ordering
+2026-02-26 15:51:21.86499 INFO::Running selected normalization method: NONE
+2026-02-26 15:51:21.872965 INFO::Creating output feature tables folder
+2026-02-26 15:51:21.873944 INFO::Writing normalized data to file maaslin3-out-vlp-group1/features/data_norm.tsv
+2026-02-26 15:51:21.894693 INFO::Filter data based on min abundance, min prevalence, and max prevalence
+2026-02-26 15:51:21.896472 INFO::Total samples in data: 26
+2026-02-26 15:51:21.897224 INFO::Min samples required with min abundance for a feature not to be filtered: 0.000000
+2026-02-26 15:51:21.898271 INFO::Max samples allowed with min abundance for a feature not to be filtered: 26.260000
+2026-02-26 15:51:21.995886 INFO::Total filtered features: 356
+2026-02-26 15:51:21.99692 INFO::Filtered feature names from abundance, min prevalence, and max prevalence filtering: NODE_1139_length_3931_cov_6.083333, NODE_1168_length_2630_cov_10.932427, NODE_1186_length_4150_cov_3.537973, NODE_125_length_7892_cov_1006.475565, NODE_1261_length_3858_cov_4.214567, NODE_1301_length_3222_cov_5.783075, NODE_1322_length_2837_cov_304.177211, NODE_1337_length_4393_cov_2.505302, NODE_1351_length_2938_cov_4.657301, NODE_1406_length_4206_cov_4.333655, NODE_1501_length_3111_cov_3.607984, NODE_1519_length_3911_cov_4.397044, NODE_1583_length_3357_cov_15.397032, NODE_1659_length_2896_cov_6.828933, NODE_1717_length_3480_cov_3.320000, NODE_1760_length_3405_cov_3.861493, NODE_1776_length_2595_cov_3.965354, NODE_1818_length_2537_cov_3.008864, NODE_1839_length_1328_cov_4.930086, NODE_1851_length_3438_cov_6.121490, NODE_1859_length_2800_cov_5.591257, NODE_1862_length_2657_cov_7.472713, NODE_1890_length_2767_cov_6.326327, NODE_199_length_38411_cov_18.010611, NODE_206_length_23661_cov_285.596331, NODE_2107_length_1681_cov_2.619926, NODE_214_length_17775_cov_57.766253, NODE_2164_length_2185_cov_81.042254, NODE_2240_length_1502_cov_3.530753, NODE_2386_length_2082_cov_4.380858, NODE_269_length_14525_cov_15.519903, NODE_3044_length_1165_cov_1.475676, NODE_305_length_23555_cov_87.354170, NODE_3241_length_1490_cov_2.567944, NODE_3245_length_1010_cov_2.720419, NODE_3245_length_1627_cov_4.408397, NODE_3286_length_1361_cov_2.157734, NODE_341_length_3453_cov_50.811948, NODE_358_length_13097_cov_6.583346, NODE_389_length_10778_cov_6.249930, NODE_393_length_11869_cov_11.596242, NODE_4258_length_1423_cov_2.616228, NODE_440_length_10261_cov_1450.787576, NODE_450_length_15129_cov_5.661603, NODE_4565_length_1307_cov_2.827476, NODE_459_length_10008_cov_349.284035, NODE_4715_length_1303_cov_2.362179, NODE_4799_length_1286_cov_2.965881, NODE_4865_length_1122_cov_8.839738, NODE_488_length_15615_cov_8.245694, NODE_5027_length_1271_cov_3.500822, NODE_512_length_17379_cov_48.317017, NODE_5784_length_1092_cov_2.510125, NODE_583_length_6725_cov_4.753823, NODE_5997_length_1100_cov_2.450718, NODE_629_length_6314_cov_5.957182, NODE_636_length_9718_cov_4.457932, NODE_650_length_6361_cov_6.692039, NODE_667_length_6236_cov_5.126517, NODE_69_length_49389_cov_8.333381|provirus_254_34971, NODE_738_length_8061_cov_8.162878, NODE_739_length_5009_cov_6.476383, NODE_782_length_7883_cov_6.464359, NODE_840_length_4289_cov_2.954417, NODE_8_length_113388_cov_131.683737, NODE_920_length_3634_cov_6.538698, NODE_956_length_5512_cov_11.889316, NODE_971_length_5388_cov_2.846240, NODE_1010_length_4287_cov_71.227316, NODE_1093_length_3876_cov_3.449097, NODE_1100_length_3241_cov_3.381984, NODE_1122_length_2806_cov_3.212650, NODE_1219_length_2329_cov_3.319261, NODE_1312_length_2682_cov_3.681766, NODE_1471_length_2976_cov_2.679904, NODE_1493_length_1864_cov_2.265340, NODE_1990_length_2132_cov_5.785749, NODE_2298_length_1049_cov_1.900402, NODE_245_length_3830_cov_69.211126, NODE_2885_length_1082_cov_3.023369, NODE_3789_length_1212_cov_3.144339, NODE_6011_length_1099_cov_1.722222, NODE_693_length_5644_cov_5.643407, NODE_774_length_4685_cov_4.877538, NODE_907_length_3696_cov_59.322164, NODE_2258_length_2305_cov_5.247111, NODE_2868_length_1669_cov_3.405824, NODE_3105_length_1047_cov_1.982863, NODE_3361_length_1390_cov_5.887640, NODE_3372_length_1383_cov_4.829066, NODE_3939_length_1087_cov_2.746124, NODE_948_length_5284_cov_5.944731, NODE_1309_length_2660_cov_6.971977, NODE_1505_length_2500_cov_249.157464, NODE_171_length_37100_cov_211.056769, NODE_201_length_19348_cov_868.755611, NODE_3270_length_1083_cov_1.818093, NODE_1044_length_3348_cov_3.808381, NODE_1110_length_2821_cov_3.820680, NODE_1198_length_2744_cov_4.802529, NODE_1216_length_2910_cov_5.361821, NODE_1216_length_4501_cov_23.658794, NODE_1232_length_4446_cov_4.133227, NODE_1392_length_2898_cov_2.884277, NODE_1406_length_3617_cov_4.808254, NODE_1526_length_3240_cov_25.778964, NODE_154_length_68062_cov_18.784963|provirus_36222_68060, NODE_1592_length_1516_cov_2.763860, NODE_172_length_36863_cov_73.802760, NODE_1958_length_2169_cov_3.448912, NODE_2004_length_1185_cov_2.319469, NODE_2142_length_1572_cov_2.471325, NODE_2147_length_1412_cov_2.389831, NODE_214_length_28722_cov_7.575121, NODE_240_length_16694_cov_79.948795, NODE_2541_length_1206_cov_2.589922, NODE_2684_length_1405_cov_2.911852, NODE_311_length_20320_cov_34.359536, NODE_3880_length_1022_cov_8.022751, NODE_3896_length_1096_cov_3.636888, NODE_432_length_11598_cov_6.284415, NODE_513_length_8890_cov_6.308659, NODE_572_length_7544_cov_8.633729, NODE_607_length_8293_cov_5.946832, NODE_640_length_5855_cov_4.590690, NODE_689_length_11453_cov_7.538691, NODE_770_length_9556_cov_5.364383, NODE_802_length_5965_cov_50.257191, NODE_895_length_4951_cov_13.092729, NODE_89_length_61266_cov_8.215942, NODE_902_length_7455_cov_6.920676, NODE_937_length_3593_cov_15.492086, NODE_938_length_3589_cov_7.188738, NODE_1575_length_2587_cov_4.397709, NODE_2203_length_1610_cov_20.437942, NODE_2667_length_1412_cov_3.002211, NODE_313_length_3138_cov_6.434317, NODE_351_length_17457_cov_7.739110, NODE_461_length_8240_cov_11.483201, NODE_682_length_2733_cov_15.867438, NODE_712_length_4458_cov_5.068135, NODE_715_length_5755_cov_15.409474, NODE_1795_length_2239_cov_2.438645, NODE_1881_length_1243_cov_5.522727, NODE_2039_length_1954_cov_2.393365, NODE_2471_length_1755_cov_3.015882, NODE_3050_length_1222_cov_2.569837, NODE_1017_length_3175_cov_27.554487, NODE_228_length_21624_cov_26.365571, NODE_2988_length_1000_cov_29.940741, NODE_3829_length_1032_cov_1.486182, NODE_411_length_10411_cov_40.479625, NODE_4544_length_1041_cov_2.966531, NODE_519_length_8255_cov_36.759024, NODE_5801_length_1157_cov_3.646098, NODE_830_length_5112_cov_19.131896, NODE_987_length_3306_cov_8.760689, NODE_4518_length_1046_cov_3.288597, NODE_1991_length_2613_cov_11.167709, NODE_2191_length_1525_cov_2.623810, NODE_2522_length_1214_cov_2.591027, NODE_3088_length_1057_cov_2.450100, NODE_4669_length_1077_cov_2.565558, NODE_962_length_4645_cov_65.713943, NODE_1806_length_2675_cov_6.659542, NODE_2463_length_2040_cov_6.587406, NODE_4550_length_1164_cov_6.034265, NODE_5294_length_1015_cov_4.001042, NODE_1347_length_3069_cov_34.260451, NODE_1877_length_2681_cov_3.642041, NODE_1136_length_3651_cov_4.176029, NODE_1477_length_2550_cov_3.289780, NODE_1727_length_2069_cov_4.505958, NODE_1958_length_1741_cov_3.469751, NODE_2479_length_1074_cov_4.005888, NODE_2691_length_1221_cov_3.456261, NODE_4165_length_1315_cov_3.457937, NODE_719_length_6734_cov_5.638269, NODE_3237_length_1374_cov_3.844579, NODE_242_length_12737_cov_131.762656, NODE_1044_length_3426_cov_42.706022, NODE_3471_length_1019_cov_3.377593, NODE_1463_length_2299_cov_4.454991, NODE_1564_length_2551_cov_4.290865, NODE_278_length_9687_cov_5.219581, NODE_336_length_7643_cov_6.080522, NODE_365_length_6752_cov_5.892788, NODE_523_length_5655_cov_4.423929, NODE_622_length_4852_cov_5.285178, NODE_853_length_3921_cov_3.226849, NODE_925_length_2516_cov_5.385616, NODE_1573_length_1358_cov_6.777437, NODE_2273_length_1137_cov_3.246765, NODE_284_length_3382_cov_207.895702, NODE_120_length_44371_cov_9.663327, NODE_2495_length_1362_cov_2.534813, NODE_1180_length_2996_cov_24.596056, NODE_1258_length_2478_cov_5.522905, NODE_1645_length_2515_cov_4.275203, NODE_1782_length_1985_cov_3.122798, NODE_740_length_4991_cov_5.070097, NODE_1264_length_2799_cov_3.494169, NODE_2153_length_1981_cov_4.637591, NODE_2340_length_2098_cov_6.842389, NODE_1067_length_1202_cov_2.431561, NODE_1091_length_1191_cov_1.933099, NODE_109_length_7331_cov_5.936916, NODE_10_length_29026_cov_12.843982, NODE_113_length_7084_cov_5.866553, NODE_1168_length_1142_cov_1.855566, NODE_1172_length_1138_cov_33.322253, NODE_1211_length_1116_cov_2.086711, NODE_121_length_6475_cov_25.920249, NODE_1222_length_1113_cov_1.643667, NODE_122_length_6417_cov_17.027350, NODE_1256_length_1099_cov_2.269157, NODE_125_length_6311_cov_3.891784, NODE_1281_length_1088_cov_2.411423, NODE_131_length_6068_cov_37.790121, NODE_1387_length_1039_cov_20.370935, NODE_13_length_40799_cov_15.355242, NODE_1401_length_1032_cov_3.027636, NODE_1428_length_1019_cov_1.274896, NODE_142_length_5603_cov_31.031363, NODE_1430_length_1018_cov_1.370717, NODE_1436_length_1015_cov_2.790625, NODE_144_length_5559_cov_3.918060, NODE_1467_length_1001_cov_3.873150, NODE_14_length_39554_cov_19.781438, NODE_15_length_39466_cov_18.559108, NODE_162_length_4971_cov_48.427787, NODE_166_length_4899_cov_25.667630, NODE_176_length_3854_cov_4.569624, NODE_18_length_36018_cov_7.037010, NODE_197_length_4091_cov_25.228444, NODE_19_length_35380_cov_33.510403, NODE_20_length_35331_cov_49.068092, NODE_224_length_3695_cov_4.941209, NODE_240_length_3473_cov_3.342891, NODE_241_length_3449_cov_5.197996, NODE_244_length_3422_cov_2.718147, NODE_247_length_3399_cov_3.113935, NODE_24_length_29508_cov_9.196584, NODE_268_length_3148_cov_3.263822, NODE_269_length_3134_cov_2.428061, NODE_276_length_3071_cov_28.626989, NODE_280_length_3034_cov_48.190668, NODE_294_length_2969_cov_2.750858, NODE_306_length_2857_cov_3.935403, NODE_313_length_2801_cov_4.976329, NODE_317_length_2769_cov_2.861459, NODE_328_length_2684_cov_2.568277, NODE_338_length_2635_cov_3.262791, NODE_348_length_2572_cov_3.254271, NODE_349_length_2569_cov_4.017900, NODE_38_length_12381_cov_9.720509, NODE_395_length_2315_cov_2.461062, NODE_422_length_2230_cov_3.574253, NODE_43_length_20373_cov_28.772369, NODE_46_length_19600_cov_47.405628, NODE_479_length_2068_cov_51.126180, NODE_47_length_17757_cov_361.699697, NODE_48_length_17643_cov_82.725562, NODE_52_length_16934_cov_28.948220, NODE_535_length_1902_cov_2.715214, NODE_537_length_1896_cov_6.189028, NODE_53_length_16870_cov_13.743027, NODE_55_length_16510_cov_39.816895, NODE_56_length_16302_cov_22.998831, NODE_577_length_1787_cov_2.331409, NODE_58_length_15675_cov_11.769142, NODE_5_length_36112_cov_12.717004, NODE_626_length_1564_cov_5.337309, NODE_630_length_1562_cov_5.102853, NODE_64_length_8589_cov_10.134521, NODE_661_length_1645_cov_2.506289, NODE_66_length_14339_cov_57.569518, NODE_673_length_1624_cov_3.067559, NODE_697_length_1571_cov_2.366755, NODE_70_length_13424_cov_4.735882, NODE_717_length_1536_cov_38.029710, NODE_72_length_13172_cov_143.603110, NODE_765_length_1472_cov_2.507410, NODE_79_length_11271_cov_35.365549, NODE_864_length_1376_cov_2.677517, NODE_908_length_1325_cov_2.127559, NODE_950_length_1286_cov_7.272949, NODE_103_length_5688_cov_4.401740, NODE_1059_length_1184_cov_2.370239, NODE_1076_length_1174_cov_4.462913, NODE_1077_length_1174_cov_3.741734, NODE_109_length_5517_cov_5.794764, NODE_110_length_5458_cov_9.223024, NODE_1127_length_1147_cov_2.521978, NODE_113_length_5349_cov_5.386286, NODE_114_length_5287_cov_4.093272, NODE_115_length_5265_cov_4.248752, NODE_1174_length_1125_cov_1.920561, NODE_119_length_5193_cov_4.218568, NODE_1225_length_1099_cov_2.553640, NODE_122_length_4946_cov_4.345328, NODE_131_length_4785_cov_7.429598, NODE_1321_length_1048_cov_2.348439, NODE_1322_length_1047_cov_3.806452, NODE_1338_length_1041_cov_2.307302, NODE_1382_length_1024_cov_2.011352, NODE_1411_length_1012_cov_2.218391, NODE_153_length_4167_cov_3.723492, NODE_160_length_4008_cov_3.618771, NODE_16_length_20004_cov_2375.001805, NODE_17_length_19741_cov_4.852687, NODE_180_length_3805_cov_4.354133, NODE_184_length_3654_cov_4.500695, NODE_186_length_3606_cov_2.664038, NODE_18_length_19544_cov_11.024270, NODE_195_length_3486_cov_2.403964, NODE_200_length_3419_cov_4.433413, NODE_201_length_3412_cov_2.440870, NODE_215_length_3236_cov_4.272870, NODE_217_length_3222_cov_3.829807, NODE_229_length_3048_cov_5.127631, NODE_231_length_3028_cov_2.509250, NODE_246_length_2849_cov_3.388332, NODE_248_length_2813_cov_4.138144, NODE_24_length_16285_cov_42.554713, NODE_256_length_2773_cov_4.676233, NODE_266_length_2659_cov_3.225422, NODE_274_length_2619_cov_3.736349, NODE_280_length_2575_cov_2.821825, NODE_28_length_15120_cov_8.141653, NODE_358_length_2209_cov_3.369545, NODE_41_length_11398_cov_19.446619, NODE_449_length_1931_cov_5.841151, NODE_44_length_11166_cov_7.982990, NODE_46_length_10779_cov_6.092503, NODE_53_length_9847_cov_3.295752, NODE_585_length_1621_cov_2.642401, NODE_591_length_1610_cov_2.979421, NODE_621_length_1567_cov_4.782407, NODE_716_length_1459_cov_3.289174, NODE_72_length_7180_cov_3.890667, NODE_735_length_1436_cov_1.792904, NODE_770_length_1403_cov_2.066766, NODE_793_length_1381_cov_1.760935, NODE_79_length_6809_cov_5.143471, NODE_809_length_1367_cov_2.485518, NODE_819_length_1362_cov_2.496557, NODE_81_length_6522_cov_9.763260, NODE_825_length_1360_cov_2.013027, NODE_84_length_6403_cov_3.902804, NODE_870_length_1319_cov_1.970728, NODE_88_length_6325_cov_3.779426, NODE_940_length_1266_cov_4.521057, NODE_95_length_5968_cov_4.964654, NODE_98_length_5873_cov_4.399966, NODE_99_length_5851_cov_3.793651
+2026-02-26 15:51:22.005108 INFO::Total features filtered by non-zero variance filtering: 77
+2026-02-26 15:51:22.005955 INFO::Filtered feature names from variance filtering: NODE_1657_length_2898_cov_7.392191, NODE_175_length_29015_cov_2566.187293, NODE_1787_length_3539_cov_5.173938, NODE_1992_length_3218_cov_3.072716, NODE_2312_length_2553_cov_2.835869, NODE_4342_length_1516_cov_5.272416, NODE_5977_length_1065_cov_2.836634, NODE_824_length_4380_cov_220.553757, NODE_1115_length_3181_cov_94.175944, NODE_286_length_3337_cov_34.268434, NODE_244_length_44445_cov_23.965736, NODE_1393_length_3833_cov_7.134727, NODE_150_length_15271_cov_146.997305, NODE_52_length_31176_cov_152.699560, NODE_666_length_4402_cov_165.530481, NODE_1179_length_1863_cov_4.367810, NODE_1219_length_4494_cov_4.358865, NODE_1224_length_2293_cov_3.016533, NODE_1229_length_3767_cov_15.280711, NODE_1241_length_2232_cov_3.112540, NODE_1314_length_2031_cov_4.501518, NODE_1400_length_1829_cov_4.534386, NODE_1454_length_3453_cov_3.464979, NODE_1477_length_3366_cov_5.620054, NODE_1478_length_2545_cov_2.436145, NODE_1591_length_1517_cov_4.012312, NODE_1596_length_3038_cov_4.598056, NODE_1631_length_2537_cov_4.762288, NODE_179_length_34455_cov_9.524186, NODE_2015_length_2219_cov_9.286044, NODE_212_length_36964_cov_27.814327, NODE_2247_length_1070_cov_3.404926, NODE_2996_length_1402_cov_4.274684, NODE_3386_length_1614_cov_12.089801, NODE_3512_length_1188_cov_3.716681, NODE_444_length_8251_cov_19.583333, NODE_475_length_11718_cov_5.183058, NODE_80_length_39770_cov_64.322573, NODE_927_length_4608_cov_4.518559, NODE_1688_length_2140_cov_2.430216, NODE_3787_length_1481_cov_11.197055, NODE_4125_length_1127_cov_7.027052, NODE_1140_length_3042_cov_3.425176, NODE_1696_length_2376_cov_3.195174, NODE_3574_length_1331_cov_2.348746, NODE_5077_length_1011_cov_1.685146, NODE_1694_length_3003_cov_3.685210, NODE_1728_length_2783_cov_5.998167, NODE_1848_length_1902_cov_3.852193, NODE_1934_length_1227_cov_3.994881, NODE_2865_length_1534_cov_3.376606, NODE_384_length_5899_cov_10.838809, NODE_4072_length_1261_cov_4.812604, NODE_4277_length_1095_cov_2.366346, NODE_1012_length_3289_cov_4.128324, NODE_109_length_43539_cov_14.893685, NODE_1230_length_4414_cov_7.119982, NODE_1375_length_4032_cov_3.287403, NODE_2184_length_2813_cov_4.291516, NODE_4632_length_1588_cov_4.013699, NODE_5231_length_1453_cov_4.859800, NODE_5926_length_1313_cov_4.853736, NODE_615_length_3013_cov_5.146383, NODE_3598_length_1325_cov_2.823622, NODE_5488_length_1148_cov_3.391583, NODE_1173_length_1867_cov_17.234547, NODE_1294_length_1084_cov_1.803693, NODE_1791_length_1384_cov_7.927013, NODE_2814_length_1030_cov_7.473846, NODE_392_length_4767_cov_1385.784805, NODE_501_length_3664_cov_11.020504, NODE_631_length_3034_cov_10.270896, NODE_797_length_2532_cov_7.725474, NODE_827_length_2466_cov_10.437993, NODE_907_length_1325_cov_2.300787, NODE_127_length_19787_cov_21.029394, NODE_5915_length_1043_cov_13.946356
+2026-02-26 15:51:22.006444 INFO::Writing filtered data to file maaslin3-out-vlp-group1/features/filtered_data.tsv
+2026-02-26 15:51:22.017254 INFO::Running selected transform method: LOG
+2026-02-26 15:51:22.050494 INFO::Writing normalized, filtered, transformed data to file maaslin3-out-vlp-group1/features/data_transformed.tsv
+2026-02-26 15:51:22.061615 INFO::Factor detected for categorial metadata 'PrePostFVT'. Using as-is.
+2026-02-26 15:51:22.062278 INFO::Applying z-score to standardize continuous metadata
+2026-02-26 15:51:22.065792 INFO::Running the linear model component
+2026-02-26 15:51:22.067906 INFO::Creating cluster of 8 R processes
+2026-02-26 15:51:28.195461 DEBUG::Object: augment, Size: 56
+2026-02-26 15:51:28.196025 DEBUG::Object: cluster, Size: 11928
+2026-02-26 15:51:28.196228 DEBUG::Object: cores, Size: 56
+2026-02-26 15:51:28.19641 DEBUG::Object: correction, Size: 112
+2026-02-26 15:51:28.196573 DEBUG::Object: extract_out, Size: 1864
+2026-02-26 15:51:28.196734 DEBUG::Object: feature_specific_covariate, Size: 0
+2026-02-26 15:51:28.19689 DEBUG::Object: feature_specific_covariate_name, Size: 0
+2026-02-26 15:51:28.197044 DEBUG::Object: feature_specific_covariate_record, Size: 0
+2026-02-26 15:51:28.197235 DEBUG::Object: features, Size: 342744
+2026-02-26 15:51:28.197387 DEBUG::Object: formula, Size: 1456
+2026-02-26 15:51:28.197559 DEBUG::Object: fun_list, Size: 124640
+2026-02-26 15:51:28.197764 DEBUG::Object: func_to_run, Size: 435336
+2026-02-26 15:51:28.197922 DEBUG::Object: groups, Size: 48
+2026-02-26 15:51:28.198067 DEBUG::Object: median_comparison, Size: 56
+2026-02-26 15:51:28.198209 DEBUG::Object: median_comparison_threshold, Size: 56
+2026-02-26 15:51:28.198363 DEBUG::Object: metadata, Size: 14600
+2026-02-26 15:51:28.198507 DEBUG::Object: model, Size: 112
+2026-02-26 15:51:28.198666 DEBUG::Object: model_function, Size: 71464
+2026-02-26 15:51:28.198809 DEBUG::Object: ordereds, Size: 48
+2026-02-26 15:51:28.19911 DEBUG::Object: random_effects_formula, Size: 1456
+2026-02-26 15:51:28.199454 DEBUG::Object: ranef_function, Size: 1240
+2026-02-26 15:51:28.199644 DEBUG::Object: save_models, Size: 56
+2026-02-26 15:51:28.199812 DEBUG::Object: small_random_effects, Size: 56
+2026-02-26 15:51:28.199971 DEBUG::Object: strata, Size: 48
+2026-02-26 15:51:28.200123 DEBUG::Object: subtract_median, Size: 56
+2026-02-26 15:51:28.200287 DEBUG::Object: summary_function, Size: 51456
+2026-02-26 15:51:28.200483 DEBUG::Object: func_to_run, Size: 435336
+2026-02-26 15:52:02.001467 INFO::Performing tests against medians
+2026-02-26 15:52:06.386648 INFO::Counting total values for each feature
+2026-02-26 15:52:06.407901 INFO::Running the logistic model component
+2026-02-26 15:52:06.410331 INFO::Creating cluster of 8 R processes
+2026-02-26 16:00:41.036026 DEBUG::Object: augment, Size: 56
+2026-02-26 16:00:41.04134 DEBUG::Object: cluster, Size: 11928
+2026-02-26 16:00:41.041709 DEBUG::Object: cores, Size: 56
+2026-02-26 16:00:41.042001 DEBUG::Object: correction, Size: 112
+2026-02-26 16:00:41.042269 DEBUG::Object: extract_out, Size: 1864
+2026-02-26 16:00:41.042518 DEBUG::Object: feature_specific_covariate, Size: 0
+2026-02-26 16:00:41.042759 DEBUG::Object: feature_specific_covariate_name, Size: 0
+2026-02-26 16:00:41.042985 DEBUG::Object: feature_specific_covariate_record, Size: 0
+2026-02-26 16:00:41.04352 DEBUG::Object: features, Size: 291000
+2026-02-26 16:00:41.043746 DEBUG::Object: formula, Size: 1456
+2026-02-26 16:00:41.044023 DEBUG::Object: fun_list, Size: 212584
+2026-02-26 16:00:41.044889 DEBUG::Object: func_to_run, Size: 435336
+2026-02-26 16:00:41.045114 DEBUG::Object: groups, Size: 48
+2026-02-26 16:00:41.045317 DEBUG::Object: median_comparison, Size: 56
+2026-02-26 16:00:41.045542 DEBUG::Object: median_comparison_threshold, Size: 56
+2026-02-26 16:00:41.045745 DEBUG::Object: metadata, Size: 14600
+2026-02-26 16:00:41.045997 DEBUG::Object: model, Size: 120
+2026-02-26 16:00:41.046221 DEBUG::Object: model_function, Size: 161200
+2026-02-26 16:00:41.046437 DEBUG::Object: ordereds, Size: 48
+2026-02-26 16:00:41.046653 DEBUG::Object: random_effects_formula, Size: 1456
+2026-02-26 16:00:41.047164 DEBUG::Object: ranef_function, Size: 1240
+2026-02-26 16:00:41.047442 DEBUG::Object: save_models, Size: 56
+2026-02-26 16:00:41.047677 DEBUG::Object: small_random_effects, Size: 56
+2026-02-26 16:00:41.047889 DEBUG::Object: strata, Size: 48
+2026-02-26 16:00:41.04812 DEBUG::Object: subtract_median, Size: 56
+2026-02-26 16:00:41.048395 DEBUG::Object: summary_function, Size: 49664
+2026-02-26 16:00:41.048683 DEBUG::Object: func_to_run, Size: 435336
+2026-02-26 16:01:57.571569 INFO::Counting total values for each feature
+2026-02-26 16:01:57.605694 INFO::Re-running abundances for warn_prevalence
+2026-02-26 16:01:57.606645 INFO::Running selected normalization method: TSS
+2026-02-26 16:01:57.625631 INFO::Running selected transform method: LOG
+2026-02-26 16:01:57.651995 INFO::Creating cluster of 8 R processes
+2026-02-26 16:02:03.786045 DEBUG::Object: augment, Size: 56
+2026-02-26 16:02:03.786731 DEBUG::Object: cluster, Size: 11928
+2026-02-26 16:02:03.786954 DEBUG::Object: cores, Size: 56
+2026-02-26 16:02:03.787152 DEBUG::Object: correction, Size: 112
+2026-02-26 16:02:03.78735 DEBUG::Object: extract_out, Size: 1864
+2026-02-26 16:02:03.787522 DEBUG::Object: feature_specific_covariate, Size: 0
+2026-02-26 16:02:03.78769 DEBUG::Object: feature_specific_covariate_name, Size: 0
+2026-02-26 16:02:03.78785 DEBUG::Object: feature_specific_covariate_record, Size: 0
+2026-02-26 16:02:03.788068 DEBUG::Object: features, Size: 342744
+2026-02-26 16:02:03.788234 DEBUG::Object: formula, Size: 1456
+2026-02-26 16:02:03.788471 DEBUG::Object: fun_list, Size: 124640
+2026-02-26 16:02:03.788687 DEBUG::Object: func_to_run, Size: 435336
+2026-02-26 16:02:03.788861 DEBUG::Object: groups, Size: 48
+2026-02-26 16:02:03.789028 DEBUG::Object: median_comparison, Size: 56
+2026-02-26 16:02:03.789278 DEBUG::Object: median_comparison_threshold, Size: 56
+2026-02-26 16:02:03.789608 DEBUG::Object: metadata, Size: 14600
+2026-02-26 16:02:03.789928 DEBUG::Object: model, Size: 112
+2026-02-26 16:02:03.79016 DEBUG::Object: model_function, Size: 71464
+2026-02-26 16:02:03.790364 DEBUG::Object: ordereds, Size: 48
+2026-02-26 16:02:03.790551 DEBUG::Object: random_effects_formula, Size: 1456
+2026-02-26 16:02:03.790736 DEBUG::Object: ranef_function, Size: 1240
+2026-02-26 16:02:03.790924 DEBUG::Object: save_models, Size: 56
+2026-02-26 16:02:03.791102 DEBUG::Object: small_random_effects, Size: 56
+2026-02-26 16:02:03.79137 DEBUG::Object: strata, Size: 48
+2026-02-26 16:02:03.791623 DEBUG::Object: subtract_median, Size: 56
+2026-02-26 16:02:03.791851 DEBUG::Object: summary_function, Size: 51456
+2026-02-26 16:02:03.792097 DEBUG::Object: func_to_run, Size: 435336
+2026-02-26 16:02:39.307527 INFO::Creating fits folder
+2026-02-26 16:02:39.309827 INFO::Writing residuals to file maaslin3-out-vlp-group1/fits/residuals_linear.rds
+2026-02-26 16:02:39.318641 INFO::Writing fitted values to file maaslin3-out-vlp-group1/fits/fitted_linear.rds
+2026-02-26 16:02:39.325068 INFO::Writing extracted random effects to file maaslin3-out-vlp-group1/fits/ranef_linear.rds
+2026-02-26 16:02:39.327892 INFO::Writing residuals to file maaslin3-out-vlp-group1/fits/residuals_logistic.rds
+2026-02-26 16:02:39.337974 INFO::Writing fitted values to file maaslin3-out-vlp-group1/fits/fitted_logistic.rds
+2026-02-26 16:02:39.346831 INFO::Writing extracted random effects to file maaslin3-out-vlp-group1/fits/ranef_logistic.rds
+2026-02-26 16:02:39.357283 INFO::Writing all the results to file (ordered 
+            by increasing individual q-values): maaslin3-out-vlp-group1/all_results.tsv
+2026-02-26 16:02:39.376503 INFO::Writing the significant results without errors (those which have joint q-values less than or equal to the threshold of 0.100000 ) to file (ordered by increasing individual q-values): maaslin3-out-vlp-group1/significant_results.tsv
+2026-02-26 16:02:39.37778 INFO::Creating output figures folder
+2026-02-26 16:02:39.380014 INFO::Writing summary plot of significant
+                        results to file: maaslin3-out-vlp-group1/figures/summary_plot.pdf
+2026-02-26 16:02:40.427142 INFO::Writing association plots (one for each significant association) to output folder: maaslin3-out-vlp-group1/figures
+2026-02-26 16:02:40.428936 INFO::Plotting associations from most to least significant, grouped by metadata
+2026-02-26 16:02:40.431394 INFO::Creating box plot for categorical data (linear), 
+                        PrePostFVT vs NODE_880_length_9528_cov_672.428798
+2026-02-26 16:02:40.467705 INFO::Creating box plot for categorical data (linear), 
+                        PrePostFVT vs NODE_976_length_5283_cov_79.848317

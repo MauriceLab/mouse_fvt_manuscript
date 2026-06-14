@@ -1,0 +1,165 @@
+2026-02-20 16:06:52.79653 INFO::Writing function arguments to log file
+2026-02-20 16:06:52.799314 DEBUG::Function arguments
+2026-02-20 16:06:52.799702 DEBUG::Output folder: maaslin3-out-16s-group1
+2026-02-20 16:06:52.801521 DEBUG::Formula: ~  PrePostFVT + (1 | AnimalID)
+2026-02-20 16:06:52.801857 DEBUG::Fixed effects:
+2026-02-20 16:06:52.802114 DEBUG::Reference:
+2026-02-20 16:06:52.802372 DEBUG::Random effects:
+2026-02-20 16:06:52.802623 DEBUG::Group effects:
+2026-02-20 16:06:52.80287 DEBUG::Ordered effects:
+2026-02-20 16:06:52.80315 DEBUG::Strata effects:
+2026-02-20 16:06:52.803382 DEBUG::Min Abundance: 0.000000
+2026-02-20 16:06:52.803637 DEBUG::Min Prevalence: 0.000000
+2026-02-20 16:06:52.80387 DEBUG::Max Prevalence: 1.010000
+2026-02-20 16:06:52.804116 DEBUG::Zero Threshold: 0.000000
+2026-02-20 16:06:52.804397 DEBUG::Min variance: 0.000000
+2026-02-20 16:06:52.804653 DEBUG::Max significance: 0.100000
+2026-02-20 16:06:52.804888 DEBUG::Normalization: NONE
+2026-02-20 16:06:52.805179 DEBUG::Transform: LOG
+2026-02-20 16:06:52.805402 DEBUG::Correction method: BH
+2026-02-20 16:06:52.805637 DEBUG::Standardize: TRUE
+2026-02-20 16:06:52.805847 DEBUG::Abundance median comparison: TRUE
+2026-02-20 16:06:52.806075 DEBUG::Prevalence median comparison: FALSE
+2026-02-20 16:06:52.806278 DEBUG::Abundance median comparison threshold: 0
+2026-02-20 16:06:52.806486 DEBUG::Prevalence median comparison threshold: 0
+2026-02-20 16:06:52.80669 DEBUG::Subtract median: FALSE
+2026-02-20 16:06:52.806906 DEBUG::Warn prevalence: TRUE
+2026-02-20 16:06:52.807124 DEBUG::Small random effects: FALSE
+2026-02-20 16:06:52.807353 DEBUG::Augment: TRUE
+2026-02-20 16:06:52.807577 DEBUG::Evaluate only:
+2026-02-20 16:06:52.807791 DEBUG::Cores: 8
+2026-02-20 16:06:52.808001 DEBUG::Balanced Summary plot: FALSE
+2026-02-20 16:06:52.808236 INFO::Verifying options selected are valid
+2026-02-20 16:06:52.809141 INFO::Determining format of input files
+2026-02-20 16:06:52.809976 INFO::Input format is data samples as columns and metadata samples as rows
+2026-02-20 16:06:52.811219 DEBUG::Transformed data so samples are rows
+2026-02-20 16:06:52.811573 DEBUG::A total of 24 samples were found in both the data and metadata
+2026-02-20 16:06:52.811934 INFO::The following samples were found to have metadata but no features (or feature specific covariates if applicable). They will be removed. VIVO8-FEC-16S-FEB11_M26,VIVO8-FEC-16S-FEB11_M27,VIVO8-FEC-16S-FEB11_F28,VIVO8-FEC-16S-FEB11_F29,VIVO8-FEC-16S-FEB18_M26,VIVO8-FEC-16S-FEB18_M27,VIVO8-FEC-16S-FEB18_F28,VIVO8-FEC-16S-FEB18_F29,VIVO8-FEC-16S-FEB21_M26,VIVO8-FEC-16S-FEB21_M27,VIVO8-FEC-16S-FEB21_F28,VIVO8-FEC-16S-FEB21_F29,VIVO8-FEC-16S-FEB28_M26,VIVO8-FEC-16S-FEB28_M27,VIVO8-FEC-16S-FEB28_F28,VIVO8-FEC-16S-FEB28_F29,VIVO8-FEC-16S-MAR07_M26,VIVO8-FEC-16S-MAR07_M27,VIVO8-FEC-16S-MAR07_F28,VIVO8-FEC-16S-MAR07_F29,VIVO8-FEC-16S-APR02_M26,VIVO8-FEC-16S-APR02_M27,VIVO8-FEC-16S-APR02_F28,VIVO8-FEC-16S-APR02_F29,VIVO8-FEC-16S-JAN30_M23,VIVO8-FEC-16S-JAN30_F24,VIVO8-FEC-16S-JAN30_F25,VIVO8-FEC-16S-FEB10_M23,VIVO8-FEC-16S-FEB10_F24,VIVO8-FEC-16S-FEB10_F25,VIVO8-FEC-16S-FEB14_M23,VIVO8-FEC-16S-FEB14_F24,VIVO8-FEC-16S-FEB14_F25,VIVO8-FEC-16S-FEB24_M23,VIVO8-FEC-16S-FEB24_F24,VIVO8-FEC-16S-FEB24_F25,VIVO8-FEC-16S-FEB28_M23,VIVO8-FEC-16S-FEB28_F24,VIVO8-FEC-16S-FEB28_F25,VIVO8-FEC-16S-MAR25_M23,VIVO8-FEC-16S-MAR25_F24,VIVO8-FEC-16S-MAR25_F25,VIVO8-FEC-16S-DEC30_F2,VIVO8-FEC-16S-JAN06_F12,VIVO8-FEC-16S-JAN15_F14,VIVO8-FEC-16S-JAN17_F2,VIVO8-FEC-16S-JAN23_F12,VIVO8-FEC-16S-JAN28_F14,VIVO8-16S-DONOR1,VIVO8-16S-DONOR2,NEG_CTL
+2026-02-20 16:06:52.812572 DEBUG::Reordering data/metadata to use same sample ordering
+2026-02-20 16:06:52.813465 INFO::Running selected normalization method: NONE
+2026-02-20 16:06:52.814562 INFO::Writing normalized data to file maaslin3-out-16s-group1/features/data_norm.tsv
+2026-02-20 16:06:52.816753 INFO::Filter data based on min abundance, min prevalence, and max prevalence
+2026-02-20 16:06:52.817499 INFO::Total samples in data: 24
+2026-02-20 16:06:52.818086 INFO::Min samples required with min abundance for a feature not to be filtered: 0.000000
+2026-02-20 16:06:52.818655 INFO::Max samples allowed with min abundance for a feature not to be filtered: 24.240000
+2026-02-20 16:06:52.822936 INFO::Total filtered features: 15
+2026-02-20 16:06:52.823672 INFO::Filtered feature names from abundance, min prevalence, and max prevalence filtering: Raoultibacter timonensis-1907662, Parolsenella catena-2003188, Lactobacillus ruminis-1623, Dialister succinatiphilus-487173, Megasphaera elsdenii-907, Intestinibacter bartlettii-261299, Gemmiger formicilis-745368, Faecalibacterium prausnitzii-853, Anaeromassilibacillus senegalensis-1673717, Agathobaculum butyriciproducens-1628085, Oribacterium parvum-1501329, Faecalicatena contorta-39482, Dorea longicatena-88431, Faecalimonas umbilicata-1912855, Shigella flexneri-623
+2026-02-20 16:06:52.824727 INFO::Total features filtered by non-zero variance filtering: 4
+2026-02-20 16:06:52.8253 INFO::Filtered feature names from variance filtering: Libanicoccus massiliensis-1871022, Paeniclostridium sordellii-1505, Phocea massiliensis-1841867, Alistipes putredinis-28117
+2026-02-20 16:06:52.825846 INFO::Writing filtered data to file maaslin3-out-16s-group1/features/filtered_data.tsv
+2026-02-20 16:06:52.827708 INFO::Running selected transform method: LOG
+2026-02-20 16:06:52.829823 INFO::Writing normalized, filtered, transformed data to file maaslin3-out-16s-group1/features/data_transformed.tsv
+2026-02-20 16:06:52.831552 INFO::Factor detected for categorial metadata 'PrePostFVT'. Using as-is.
+2026-02-20 16:06:52.832252 INFO::Applying z-score to standardize continuous metadata
+2026-02-20 16:06:52.835708 INFO::Running the linear model component
+2026-02-20 16:06:52.837425 INFO::Creating cluster of 8 R processes
+2026-02-20 16:06:58.306931 DEBUG::Object: augment, Size: 56
+2026-02-20 16:06:58.307535 DEBUG::Object: cluster, Size: 11928
+2026-02-20 16:06:58.307995 DEBUG::Object: cores, Size: 56
+2026-02-20 16:06:58.308256 DEBUG::Object: correction, Size: 112
+2026-02-20 16:06:58.30847 DEBUG::Object: extract_out, Size: 1864
+2026-02-20 16:06:58.308659 DEBUG::Object: feature_specific_covariate, Size: 0
+2026-02-20 16:06:58.308869 DEBUG::Object: feature_specific_covariate_name, Size: 0
+2026-02-20 16:06:58.309063 DEBUG::Object: feature_specific_covariate_record, Size: 0
+2026-02-20 16:06:58.309243 DEBUG::Object: features, Size: 14648
+2026-02-20 16:06:58.309434 DEBUG::Object: formula, Size: 1456
+2026-02-20 16:06:58.309625 DEBUG::Object: fun_list, Size: 124640
+2026-02-20 16:06:58.309864 DEBUG::Object: func_to_run, Size: 435336
+2026-02-20 16:06:58.310038 DEBUG::Object: groups, Size: 48
+2026-02-20 16:06:58.310202 DEBUG::Object: median_comparison, Size: 56
+2026-02-20 16:06:58.310369 DEBUG::Object: median_comparison_threshold, Size: 56
+2026-02-20 16:06:58.310546 DEBUG::Object: metadata, Size: 13128
+2026-02-20 16:06:58.310718 DEBUG::Object: model, Size: 112
+2026-02-20 16:06:58.310891 DEBUG::Object: model_function, Size: 71464
+2026-02-20 16:06:58.311052 DEBUG::Object: ordereds, Size: 48
+2026-02-20 16:06:58.311222 DEBUG::Object: random_effects_formula, Size: 1456
+2026-02-20 16:06:58.311377 DEBUG::Object: ranef_function, Size: 1240
+2026-02-20 16:06:58.31155 DEBUG::Object: save_models, Size: 56
+2026-02-20 16:06:58.311715 DEBUG::Object: small_random_effects, Size: 56
+2026-02-20 16:06:58.311879 DEBUG::Object: strata, Size: 48
+2026-02-20 16:06:58.312037 DEBUG::Object: subtract_median, Size: 56
+2026-02-20 16:06:58.312198 DEBUG::Object: summary_function, Size: 51456
+2026-02-20 16:06:58.312413 DEBUG::Object: func_to_run, Size: 435336
+2026-02-20 16:06:59.662485 INFO::Performing tests against medians
+2026-02-20 16:07:00.057267 INFO::Counting total values for each feature
+2026-02-20 16:07:00.059024 INFO::Running the logistic model component
+2026-02-20 16:07:00.060341 INFO::Creating cluster of 8 R processes
+2026-02-20 16:07:16.807482 DEBUG::Object: augment, Size: 56
+2026-02-20 16:07:16.80841 DEBUG::Object: cluster, Size: 11928
+2026-02-20 16:07:16.808655 DEBUG::Object: cores, Size: 56
+2026-02-20 16:07:16.808861 DEBUG::Object: correction, Size: 112
+2026-02-20 16:07:16.80907 DEBUG::Object: extract_out, Size: 1864
+2026-02-20 16:07:16.809284 DEBUG::Object: feature_specific_covariate, Size: 0
+2026-02-20 16:07:16.809471 DEBUG::Object: feature_specific_covariate_name, Size: 0
+2026-02-20 16:07:16.80964 DEBUG::Object: feature_specific_covariate_record, Size: 0
+2026-02-20 16:07:16.809835 DEBUG::Object: features, Size: 12576
+2026-02-20 16:07:16.810025 DEBUG::Object: formula, Size: 1456
+2026-02-20 16:07:16.810233 DEBUG::Object: fun_list, Size: 212584
+2026-02-20 16:07:16.810458 DEBUG::Object: func_to_run, Size: 435336
+2026-02-20 16:07:16.810633 DEBUG::Object: groups, Size: 48
+2026-02-20 16:07:16.810812 DEBUG::Object: median_comparison, Size: 56
+2026-02-20 16:07:16.810999 DEBUG::Object: median_comparison_threshold, Size: 56
+2026-02-20 16:07:16.811174 DEBUG::Object: metadata, Size: 13128
+2026-02-20 16:07:16.811371 DEBUG::Object: model, Size: 120
+2026-02-20 16:07:16.811561 DEBUG::Object: model_function, Size: 161200
+2026-02-20 16:07:16.811734 DEBUG::Object: ordereds, Size: 48
+2026-02-20 16:07:16.812359 DEBUG::Object: random_effects_formula, Size: 1456
+2026-02-20 16:07:16.812723 DEBUG::Object: ranef_function, Size: 1240
+2026-02-20 16:07:16.813012 DEBUG::Object: save_models, Size: 56
+2026-02-20 16:07:16.81328 DEBUG::Object: small_random_effects, Size: 56
+2026-02-20 16:07:16.81355 DEBUG::Object: strata, Size: 48
+2026-02-20 16:07:16.813742 DEBUG::Object: subtract_median, Size: 56
+2026-02-20 16:07:16.813955 DEBUG::Object: summary_function, Size: 49664
+2026-02-20 16:07:16.814195 DEBUG::Object: func_to_run, Size: 435336
+2026-02-20 16:07:18.312279 INFO::Counting total values for each feature
+2026-02-20 16:07:18.315004 INFO::Re-running abundances for warn_prevalence
+2026-02-20 16:07:18.315544 INFO::Running selected normalization method: TSS
+2026-02-20 16:07:18.317061 INFO::Running selected transform method: LOG
+2026-02-20 16:07:18.318983 INFO::Creating cluster of 8 R processes
+2026-02-20 16:07:23.590232 DEBUG::Object: augment, Size: 56
+2026-02-20 16:07:23.59084 DEBUG::Object: cluster, Size: 11928
+2026-02-20 16:07:23.591249 DEBUG::Object: cores, Size: 56
+2026-02-20 16:07:23.591528 DEBUG::Object: correction, Size: 112
+2026-02-20 16:07:23.591758 DEBUG::Object: extract_out, Size: 1864
+2026-02-20 16:07:23.591975 DEBUG::Object: feature_specific_covariate, Size: 0
+2026-02-20 16:07:23.592184 DEBUG::Object: feature_specific_covariate_name, Size: 0
+2026-02-20 16:07:23.592373 DEBUG::Object: feature_specific_covariate_record, Size: 0
+2026-02-20 16:07:23.592567 DEBUG::Object: features, Size: 14648
+2026-02-20 16:07:23.592753 DEBUG::Object: formula, Size: 1456
+2026-02-20 16:07:23.592946 DEBUG::Object: fun_list, Size: 124640
+2026-02-20 16:07:23.593185 DEBUG::Object: func_to_run, Size: 435336
+2026-02-20 16:07:23.593361 DEBUG::Object: groups, Size: 48
+2026-02-20 16:07:23.593529 DEBUG::Object: median_comparison, Size: 56
+2026-02-20 16:07:23.593718 DEBUG::Object: median_comparison_threshold, Size: 56
+2026-02-20 16:07:23.593919 DEBUG::Object: metadata, Size: 13128
+2026-02-20 16:07:23.594115 DEBUG::Object: model, Size: 112
+2026-02-20 16:07:23.594289 DEBUG::Object: model_function, Size: 71464
+2026-02-20 16:07:23.594449 DEBUG::Object: ordereds, Size: 48
+2026-02-20 16:07:23.594608 DEBUG::Object: random_effects_formula, Size: 1456
+2026-02-20 16:07:23.594784 DEBUG::Object: ranef_function, Size: 1240
+2026-02-20 16:07:23.595002 DEBUG::Object: save_models, Size: 56
+2026-02-20 16:07:23.595161 DEBUG::Object: small_random_effects, Size: 56
+2026-02-20 16:07:23.59533 DEBUG::Object: strata, Size: 48
+2026-02-20 16:07:23.595518 DEBUG::Object: subtract_median, Size: 56
+2026-02-20 16:07:23.595691 DEBUG::Object: summary_function, Size: 51456
+2026-02-20 16:07:23.595919 DEBUG::Object: func_to_run, Size: 435336
+2026-02-20 16:07:24.815363 WARNING::Deleting existing residuals file: maaslin3-out-16s-group1/fits/residuals_linear.rds
+2026-02-20 16:07:24.817597 INFO::Writing residuals to file maaslin3-out-16s-group1/fits/residuals_linear.rds
+2026-02-20 16:07:24.818847 WARNING::Deleting existing fitted file: maaslin3-out-16s-group1/fits/fitted_linear.rds
+2026-02-20 16:07:24.819813 INFO::Writing fitted values to file maaslin3-out-16s-group1/fits/fitted_linear.rds
+2026-02-20 16:07:24.820635 WARNING::Deleting existing ranef file: maaslin3-out-16s-group1/fits/ranef_linear.rds
+2026-02-20 16:07:24.821517 INFO::Writing extracted random effects to file maaslin3-out-16s-group1/fits/ranef_linear.rds
+2026-02-20 16:07:24.822166 WARNING::Deleting existing residuals file: maaslin3-out-16s-group1/fits/residuals_logistic.rds
+2026-02-20 16:07:24.823025 INFO::Writing residuals to file maaslin3-out-16s-group1/fits/residuals_logistic.rds
+2026-02-20 16:07:24.823886 WARNING::Deleting existing fitted file: maaslin3-out-16s-group1/fits/fitted_logistic.rds
+2026-02-20 16:07:24.824684 INFO::Writing fitted values to file maaslin3-out-16s-group1/fits/fitted_logistic.rds
+2026-02-20 16:07:24.825608 WARNING::Deleting existing ranef file: maaslin3-out-16s-group1/fits/ranef_logistic.rds
+2026-02-20 16:07:24.826575 INFO::Writing extracted random effects to file maaslin3-out-16s-group1/fits/ranef_logistic.rds
+2026-02-20 16:07:24.828244 INFO::Writing all the results to file (ordered 
+            by increasing individual q-values): maaslin3-out-16s-group1/all_results.tsv
+2026-02-20 16:07:24.83021 INFO::Writing the significant results without errors (those which have joint q-values less than or equal to the threshold of 0.100000 ) to file (ordered by increasing individual q-values): maaslin3-out-16s-group1/significant_results.tsv
+2026-02-20 16:07:24.831601 INFO::Writing summary plot of significant
+                        results to file: maaslin3-out-16s-group1/figures/summary_plot.pdf
+2026-02-20 16:07:25.663832 INFO::Writing association plots (one for each significant association) to output folder: maaslin3-out-16s-group1/figures
+2026-02-20 16:07:25.665036 INFO::All associations had errors 
+                                or were insignificant.

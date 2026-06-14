@@ -1,0 +1,685 @@
+"feature"	"metadata"	"value"	"name"	"coef"	"null_hypothesis"	"stderr"	"pval_individual"	"qval_individual"	"pval_joint"	"qval_joint"	"error"	"model"	"N"	"N_not_zero"
+"NODE_1002_length_2557_cov_4.365308"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_1002_length_2557_cov_4.365308"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_101_length_4575_cov_7.278097"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	8
+"NODE_101_length_4575_cov_7.278097"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	8
+"NODE_1058_length_1702_cov_11.257438"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_1058_length_1702_cov_11.257438"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_111_length_5691_cov_7.167495"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	4
+"NODE_111_length_5691_cov_7.167495"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	4
+"NODE_1112_length_1822_cov_14.345218"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_1112_length_1822_cov_14.345218"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_113_length_10116_cov_5.796044"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_113_length_10116_cov_5.796044"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_1137_length_1786_cov_5.545350"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_1137_length_1786_cov_5.545350"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_1177_length_1098_cov_3.402685"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_1177_length_1098_cov_3.402685"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_118_length_14212_cov_7.809423"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_118_length_14212_cov_7.809423"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_119_length_6127_cov_11.754282"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_119_length_6127_cov_11.754282"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_120_length_4708_cov_5.977649"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_120_length_4708_cov_5.977649"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_122_length_9714_cov_6.792939"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_122_length_9714_cov_6.792939"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_125_length_3140_cov_7.146191"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_125_length_3140_cov_7.146191"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_128_length_6828_cov_9.355825"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_128_length_6828_cov_9.355825"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_129_length_9271_cov_6.849284"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_129_length_9271_cov_6.849284"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_132_length_1293_cov_2.933764"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_132_length_1293_cov_2.933764"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_132_length_23877_cov_12.972546"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	4
+"NODE_132_length_23877_cov_12.972546"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	4
+"NODE_138_length_9014_cov_6.055698"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	4
+"NODE_138_length_9014_cov_6.055698"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	4
+"NODE_139_length_11886_cov_12.290001"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_139_length_11886_cov_12.290001"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_142_length_3949_cov_4.543657"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_142_length_3949_cov_4.543657"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_147_length_3367_cov_3.467089"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_147_length_3367_cov_3.467089"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_148_length_1529_cov_3.214383"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_148_length_1529_cov_3.214383"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_149_length_1341_cov_4.596423"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_149_length_1341_cov_4.596423"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_151_length_11622_cov_6.802715"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_151_length_11622_cov_6.802715"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_153_length_12400_cov_9.887809"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_153_length_12400_cov_9.887809"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_158_length_5208_cov_16.826121"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_158_length_5208_cov_16.826121"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_159_length_14466_cov_7.447367"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_159_length_14466_cov_7.447367"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_159_length_3508_cov_4.616276"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_159_length_3508_cov_4.616276"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_1604_length_1116_cov_1.593779"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_1604_length_1116_cov_1.593779"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_175_length_2545_cov_8.803614"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_175_length_2545_cov_8.803614"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_175_length_8062_cov_4.755589"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_175_length_8062_cov_4.755589"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_177_length_3368_cov_6.261093"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_177_length_3368_cov_6.261093"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_177_length_5120_cov_13.319842"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	22
+"NODE_177_length_5120_cov_13.319842"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	22
+"NODE_177_length_6844_cov_8.175725"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_177_length_6844_cov_8.175725"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_178_length_5905_cov_7.559658"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_178_length_5905_cov_7.559658"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_181_length_2892_cov_40.830455"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_181_length_2892_cov_40.830455"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_187_length_2850_cov_5.341324"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_187_length_2850_cov_5.341324"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_190_length_3286_cov_3.972764"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_190_length_3286_cov_3.972764"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_192_length_7497_cov_5.865493"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_192_length_7497_cov_5.865493"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_197_length_4114_cov_4.814240"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_197_length_4114_cov_4.814240"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_213_length_6728_cov_11.658025"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_213_length_6728_cov_11.658025"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_217_length_2444_cov_4.637505"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_217_length_2444_cov_4.637505"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_222_length_1353_cov_3.577042"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	5
+"NODE_222_length_1353_cov_3.577042"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	5
+"NODE_225_length_2373_cov_13.590164"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_225_length_2373_cov_13.590164"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_229_length_4253_cov_7.022868"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_229_length_4253_cov_7.022868"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_232_length_3859_cov_5.182177"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_232_length_3859_cov_5.182177"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_233_length_5621_cov_11.496407"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_233_length_5621_cov_11.496407"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_24_length_29177_cov_10.095976"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_24_length_29177_cov_10.095976"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_241_length_6412_cov_5.785433"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_241_length_6412_cov_5.785433"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_242_length_11721_cov_8.904937"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_242_length_11721_cov_8.904937"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_244_length_1884_cov_3.414434"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	4
+"NODE_244_length_1884_cov_3.414434"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	4
+"NODE_245_length_2989_cov_21.227676"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	8
+"NODE_245_length_2989_cov_21.227676"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	8
+"NODE_245_length_4271_cov_6.865038"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	12
+"NODE_245_length_4271_cov_6.865038"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	12
+"NODE_25_length_41950_cov_8.418546"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	3
+"NODE_25_length_41950_cov_8.418546"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	3
+"NODE_25_length_64430_cov_10.074175"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	10
+"NODE_25_length_64430_cov_10.074175"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	10
+"NODE_250_length_2172_cov_5.605102"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_250_length_2172_cov_5.605102"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_250_length_3884_cov_34.956385"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_250_length_3884_cov_34.956385"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_254_length_4664_cov_6.991972"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_254_length_4664_cov_6.991972"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_26_length_40087_cov_66.732839"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	14
+"NODE_26_length_40087_cov_66.732839"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	14
+"NODE_262_length_4295_cov_8.188443"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_262_length_4295_cov_8.188443"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_267_length_1101_cov_2.931166"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	10
+"NODE_267_length_1101_cov_2.931166"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	10
+"NODE_267_length_4368_cov_4.549038"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_267_length_4368_cov_4.549038"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_269_length_5610_cov_6.458146"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_269_length_5610_cov_6.458146"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_273_length_3857_cov_5.688059"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	3
+"NODE_273_length_3857_cov_5.688059"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	3
+"NODE_273_length_5592_cov_9.036662"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_273_length_5592_cov_9.036662"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_275_length_3206_cov_5.058077"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_275_length_3206_cov_5.058077"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_278_length_4850_cov_6.859437"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	31
+"NODE_278_length_4850_cov_6.859437"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	31
+"NODE_288_length_2524_cov_4.504253"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	7
+"NODE_288_length_2524_cov_4.504253"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	7
+"NODE_288_length_3117_cov_4.919334"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_288_length_3117_cov_4.919334"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_292_length_9196_cov_7.239689"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_292_length_9196_cov_7.239689"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_293_length_1673_cov_2.770705"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_293_length_1673_cov_2.770705"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_30_length_34336_cov_218.813629"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	5
+"NODE_30_length_34336_cov_218.813629"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	5
+"NODE_300_length_3718_cov_3.746929"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	7
+"NODE_300_length_3718_cov_3.746929"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	7
+"NODE_305_length_3981_cov_5.865003"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_305_length_3981_cov_5.865003"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_323_length_4578_cov_5.801017"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	30
+"NODE_323_length_4578_cov_5.801017"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	30
+"NODE_324_length_2965_cov_3.493471"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_324_length_2965_cov_3.493471"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_325_length_3998_cov_5.391326"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	30
+"NODE_325_length_3998_cov_5.391326"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	30
+"NODE_33_length_19553_cov_14.475280"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	6
+"NODE_33_length_19553_cov_14.475280"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	6
+"NODE_34_length_57407_cov_132.823685"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	19
+"NODE_34_length_57407_cov_132.823685"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	19
+"NODE_343_length_4498_cov_9.510241"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_343_length_4498_cov_9.510241"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_343_length_5040_cov_8.169910"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_343_length_5040_cov_8.169910"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_345_length_4313_cov_34.753875"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	15
+"NODE_345_length_4313_cov_34.753875"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	15
+"NODE_353_length_2871_cov_5.285156"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	31
+"NODE_353_length_2871_cov_5.285156"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	31
+"NODE_36_length_24676_cov_54.263556"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	11
+"NODE_36_length_24676_cov_54.263556"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	11
+"NODE_36_length_49500_cov_28.060916"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	7
+"NODE_36_length_49500_cov_28.060916"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	7
+"NODE_366_length_3628_cov_5.400784"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_366_length_3628_cov_5.400784"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_367_length_3982_cov_6.343519"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	31
+"NODE_367_length_3982_cov_6.343519"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	31
+"NODE_375_length_1379_cov_2.361027"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_375_length_1379_cov_2.361027"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_38_length_40434_cov_66.147750"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	15
+"NODE_38_length_40434_cov_66.147750"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	15
+"NODE_39_length_11018_cov_5.964973"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_39_length_11018_cov_5.964973"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_39_length_18186_cov_5.820032|provirus_3_8483"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	3
+"NODE_39_length_18186_cov_5.820032|provirus_3_8483"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	3
+"NODE_39_length_40881_cov_40.497820"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	8
+"NODE_39_length_40881_cov_40.497820"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	8
+"NODE_390_length_2119_cov_3.486919"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_390_length_2119_cov_3.486919"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_40_length_5207_cov_6.427601"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	11
+"NODE_40_length_5207_cov_6.427601"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	11
+"NODE_40_length_6349_cov_5.400381"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	11
+"NODE_40_length_6349_cov_5.400381"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	11
+"NODE_407_length_6756_cov_5.908073"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	3
+"NODE_407_length_6756_cov_5.908073"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	3
+"NODE_41_length_39188_cov_6.935476"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_41_length_39188_cov_6.935476"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_411_length_6617_cov_5.361932"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	3
+"NODE_411_length_6617_cov_5.361932"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	3
+"NODE_42_length_32475_cov_10.695774"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	6
+"NODE_42_length_32475_cov_10.695774"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	6
+"NODE_42_length_36164_cov_8.737212"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	8
+"NODE_42_length_36164_cov_8.737212"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	8
+"NODE_42_length_6821_cov_9.625628"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_42_length_6821_cov_9.625628"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_427_length_2990_cov_4.285179"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_427_length_2990_cov_4.285179"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_428_length_2744_cov_4.066567"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_428_length_2744_cov_4.066567"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_43_length_3040_cov_4.376884"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	3
+"NODE_43_length_3040_cov_4.376884"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	3
+"NODE_43_length_7522_cov_4.368823"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	5
+"NODE_43_length_7522_cov_4.368823"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	5
+"NODE_44_length_6078_cov_6.900714"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	4
+"NODE_44_length_6078_cov_6.900714"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	4
+"NODE_449_length_3548_cov_7.859147"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_449_length_3548_cov_7.859147"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_45_length_21147_cov_17.779585"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_45_length_21147_cov_17.779585"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_457_length_3322_cov_6.401286"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	31
+"NODE_457_length_3322_cov_6.401286"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	31
+"NODE_468_length_3043_cov_5.770080"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_468_length_3043_cov_5.770080"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_469_length_2568_cov_8.139276"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	31
+"NODE_469_length_2568_cov_8.139276"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	31
+"NODE_475_length_2865_cov_5.508185"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	7
+"NODE_475_length_2865_cov_5.508185"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	7
+"NODE_479_length_1248_cov_2.093881"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_479_length_1248_cov_2.093881"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_48_length_39392_cov_13.718484"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_48_length_39392_cov_13.718484"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_498_length_2945_cov_4.607612"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_498_length_2945_cov_4.607612"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_50_length_64286_cov_15.837431|provirus_6014_50609"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	11
+"NODE_50_length_64286_cov_15.837431|provirus_6014_50609"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	11
+"NODE_500_length_2986_cov_4.587172"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_500_length_2986_cov_4.587172"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_503_length_2600_cov_5.917092"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_503_length_2600_cov_5.917092"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_51_length_4179_cov_5.019641"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_51_length_4179_cov_5.019641"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_516_length_2143_cov_4.660441"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_516_length_2143_cov_4.660441"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_52_length_3512_cov_4.416546"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_52_length_3512_cov_4.416546"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_52_length_35146_cov_146.477501"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	6
+"NODE_52_length_35146_cov_146.477501"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	6
+"NODE_536_length_2797_cov_5.823851"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_536_length_2797_cov_5.823851"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_54_length_34912_cov_29.430989"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	11
+"NODE_54_length_34912_cov_29.430989"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	11
+"NODE_560_length_4789_cov_18.278411"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	15
+"NODE_560_length_4789_cov_18.278411"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	15
+"NODE_574_length_2544_cov_6.745279"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	10
+"NODE_574_length_2544_cov_6.745279"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	10
+"NODE_58_length_8379_cov_10.701225"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_58_length_8379_cov_10.701225"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_584_length_2507_cov_6.861338"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	9
+"NODE_584_length_2507_cov_6.861338"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	9
+"NODE_596_length_3718_cov_2.839476"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	4
+"NODE_596_length_3718_cov_2.839476"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	4
+"NODE_6_length_52607_cov_9.933057|provirus_1_41423"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_6_length_52607_cov_9.933057|provirus_1_41423"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_60_length_2998_cov_5.003058"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_60_length_2998_cov_5.003058"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_609_length_1276_cov_3.526618"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_609_length_1276_cov_3.526618"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_61_length_2911_cov_3.802871"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	15
+"NODE_61_length_2911_cov_3.802871"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	15
+"NODE_610_length_2856_cov_7.730096"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_610_length_2856_cov_7.730096"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_612_length_3670_cov_4.402490"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	3
+"NODE_612_length_3670_cov_4.402490"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	3
+"NODE_618_length_2500_cov_5.937423"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	15
+"NODE_618_length_2500_cov_5.937423"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	15
+"NODE_632_length_4491_cov_6.169973"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_632_length_4491_cov_6.169973"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_636_length_4461_cov_3.897413"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_636_length_4461_cov_3.897413"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_638_length_3566_cov_3.047565"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_638_length_3566_cov_3.047565"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_64_length_16604_cov_16.296695"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	4
+"NODE_64_length_16604_cov_16.296695"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	4
+"NODE_64_length_3411_cov_6.318534"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	4
+"NODE_64_length_3411_cov_6.318534"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	4
+"NODE_649_length_3541_cov_5.194205"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_649_length_3541_cov_5.194205"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_65_length_2561_cov_4.647646"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	15
+"NODE_65_length_2561_cov_4.647646"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	15
+"NODE_655_length_3520_cov_3.797114"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	3
+"NODE_655_length_3520_cov_3.797114"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	3
+"NODE_67_length_2568_cov_2.207322"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_67_length_2568_cov_2.207322"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_683_length_3765_cov_14.952830"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	12
+"NODE_683_length_3765_cov_14.952830"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	12
+"NODE_684_length_1350_cov_2.419305"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_684_length_1350_cov_2.419305"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_71_length_2451_cov_4.832220"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_71_length_2451_cov_4.832220"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_718_length_3957_cov_7.268324"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	10
+"NODE_718_length_3957_cov_7.268324"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	10
+"NODE_72_length_5193_cov_3.367653"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_72_length_5193_cov_3.367653"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_720_length_1472_cov_2.302047"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_720_length_1472_cov_2.302047"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_74_length_2302_cov_3.058300"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_74_length_2302_cov_3.058300"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_76_length_10931_cov_8.148676"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_76_length_10931_cov_8.148676"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_77_length_21821_cov_12.298861"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_77_length_21821_cov_12.298861"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_788_length_3026_cov_16.785594"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_788_length_3026_cov_16.785594"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_796_length_2326_cov_4.740643"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_796_length_2326_cov_4.740643"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_80_length_3898_cov_3.087952"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_80_length_3898_cov_3.087952"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	2
+"NODE_82_length_5911_cov_4.870902"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	8
+"NODE_82_length_5911_cov_4.870902"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	8
+"NODE_85_length_6973_cov_5.469066"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_85_length_6973_cov_5.469066"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_86_length_11713_cov_9.597701"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_86_length_11713_cov_9.597701"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_86_length_2103_cov_4.534668"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	4
+"NODE_86_length_2103_cov_4.534668"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	4
+"NODE_87_length_8976_cov_56.443896"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	13
+"NODE_87_length_8976_cov_56.443896"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	13
+"NODE_89_length_20874_cov_10.217782|provirus_3_14193"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_89_length_20874_cov_10.217782|provirus_3_14193"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_90_length_6946_cov_17.086490"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_90_length_6946_cov_17.086490"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	3
+"NODE_90_length_8128_cov_40.375945"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	4
+"NODE_90_length_8128_cov_40.375945"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	4
+"NODE_92_length_5324_cov_4.625546"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	31
+"NODE_92_length_5324_cov_4.625546"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	31
+"NODE_925_length_2493_cov_15.062756"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	4
+"NODE_925_length_2493_cov_15.062756"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	4
+"NODE_95_length_4316_cov_6.475006"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	5
+"NODE_95_length_4316_cov_6.475006"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	5
+"NODE_95_length_4885_cov_5.471014"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_95_length_4885_cov_5.471014"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"No data points have the baseline factor level"	"abundance"	32	2
+"NODE_95_length_6809_cov_5.090613"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_95_length_6809_cov_5.090613"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	32
+"NODE_99_length_2870_cov_2.821314"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	4
+"NODE_99_length_2870_cov_2.821314"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	NA	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"abundance"	32	4
+"NODE_1002_length_2557_cov_4.365308"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_1002_length_2557_cov_4.365308"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_101_length_4575_cov_7.278097"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	8
+"NODE_101_length_4575_cov_7.278097"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	8
+"NODE_1058_length_1702_cov_11.257438"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_1058_length_1702_cov_11.257438"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_111_length_5691_cov_7.167495"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_111_length_5691_cov_7.167495"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_1112_length_1822_cov_14.345218"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_1112_length_1822_cov_14.345218"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_113_length_10116_cov_5.796044"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_113_length_10116_cov_5.796044"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_1137_length_1786_cov_5.545350"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_1137_length_1786_cov_5.545350"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_1177_length_1098_cov_3.402685"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_1177_length_1098_cov_3.402685"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_118_length_14212_cov_7.809423"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_118_length_14212_cov_7.809423"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_119_length_6127_cov_11.754282"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_119_length_6127_cov_11.754282"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_120_length_4708_cov_5.977649"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_120_length_4708_cov_5.977649"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_122_length_9714_cov_6.792939"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_122_length_9714_cov_6.792939"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_125_length_3140_cov_7.146191"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_125_length_3140_cov_7.146191"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_128_length_6828_cov_9.355825"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_128_length_6828_cov_9.355825"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_129_length_9271_cov_6.849284"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_129_length_9271_cov_6.849284"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_132_length_1293_cov_2.933764"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_132_length_1293_cov_2.933764"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_132_length_23877_cov_12.972546"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_132_length_23877_cov_12.972546"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_138_length_9014_cov_6.055698"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_138_length_9014_cov_6.055698"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_139_length_11886_cov_12.290001"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_139_length_11886_cov_12.290001"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_142_length_3949_cov_4.543657"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_142_length_3949_cov_4.543657"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_147_length_3367_cov_3.467089"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_147_length_3367_cov_3.467089"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_148_length_1529_cov_3.214383"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_148_length_1529_cov_3.214383"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_149_length_1341_cov_4.596423"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_149_length_1341_cov_4.596423"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_151_length_11622_cov_6.802715"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_151_length_11622_cov_6.802715"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_153_length_12400_cov_9.887809"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_153_length_12400_cov_9.887809"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_158_length_5208_cov_16.826121"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_158_length_5208_cov_16.826121"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_159_length_14466_cov_7.447367"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_159_length_14466_cov_7.447367"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_159_length_3508_cov_4.616276"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_159_length_3508_cov_4.616276"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_1604_length_1116_cov_1.593779"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_1604_length_1116_cov_1.593779"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_175_length_2545_cov_8.803614"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_175_length_2545_cov_8.803614"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_175_length_8062_cov_4.755589"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_175_length_8062_cov_4.755589"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_177_length_3368_cov_6.261093"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_177_length_3368_cov_6.261093"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_177_length_5120_cov_13.319842"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	22
+"NODE_177_length_5120_cov_13.319842"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	22
+"NODE_177_length_6844_cov_8.175725"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_177_length_6844_cov_8.175725"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_178_length_5905_cov_7.559658"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_178_length_5905_cov_7.559658"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_181_length_2892_cov_40.830455"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_181_length_2892_cov_40.830455"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_187_length_2850_cov_5.341324"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_187_length_2850_cov_5.341324"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_190_length_3286_cov_3.972764"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_190_length_3286_cov_3.972764"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_192_length_7497_cov_5.865493"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_192_length_7497_cov_5.865493"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_197_length_4114_cov_4.814240"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_197_length_4114_cov_4.814240"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_213_length_6728_cov_11.658025"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_213_length_6728_cov_11.658025"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_217_length_2444_cov_4.637505"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_217_length_2444_cov_4.637505"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_222_length_1353_cov_3.577042"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	5
+"NODE_222_length_1353_cov_3.577042"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	5
+"NODE_225_length_2373_cov_13.590164"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_225_length_2373_cov_13.590164"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_229_length_4253_cov_7.022868"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_229_length_4253_cov_7.022868"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_232_length_3859_cov_5.182177"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_232_length_3859_cov_5.182177"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_233_length_5621_cov_11.496407"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_233_length_5621_cov_11.496407"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_24_length_29177_cov_10.095976"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_24_length_29177_cov_10.095976"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_241_length_6412_cov_5.785433"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_241_length_6412_cov_5.785433"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_242_length_11721_cov_8.904937"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_242_length_11721_cov_8.904937"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_244_length_1884_cov_3.414434"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_244_length_1884_cov_3.414434"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_245_length_2989_cov_21.227676"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	8
+"NODE_245_length_2989_cov_21.227676"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	8
+"NODE_245_length_4271_cov_6.865038"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	12
+"NODE_245_length_4271_cov_6.865038"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	12
+"NODE_25_length_41950_cov_8.418546"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_25_length_41950_cov_8.418546"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_25_length_64430_cov_10.074175"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	10
+"NODE_25_length_64430_cov_10.074175"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	10
+"NODE_250_length_2172_cov_5.605102"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_250_length_2172_cov_5.605102"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_250_length_3884_cov_34.956385"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_250_length_3884_cov_34.956385"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_254_length_4664_cov_6.991972"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_254_length_4664_cov_6.991972"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_26_length_40087_cov_66.732839"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	14
+"NODE_26_length_40087_cov_66.732839"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	14
+"NODE_262_length_4295_cov_8.188443"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_262_length_4295_cov_8.188443"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_267_length_1101_cov_2.931166"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	10
+"NODE_267_length_1101_cov_2.931166"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	10
+"NODE_267_length_4368_cov_4.549038"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_267_length_4368_cov_4.549038"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_269_length_5610_cov_6.458146"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_269_length_5610_cov_6.458146"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_273_length_3857_cov_5.688059"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_273_length_3857_cov_5.688059"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_273_length_5592_cov_9.036662"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_273_length_5592_cov_9.036662"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_275_length_3206_cov_5.058077"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_275_length_3206_cov_5.058077"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_278_length_4850_cov_6.859437"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	31
+"NODE_278_length_4850_cov_6.859437"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	31
+"NODE_288_length_2524_cov_4.504253"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	7
+"NODE_288_length_2524_cov_4.504253"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	7
+"NODE_288_length_3117_cov_4.919334"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_288_length_3117_cov_4.919334"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_292_length_9196_cov_7.239689"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_292_length_9196_cov_7.239689"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_293_length_1673_cov_2.770705"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_293_length_1673_cov_2.770705"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_30_length_34336_cov_218.813629"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	5
+"NODE_30_length_34336_cov_218.813629"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	5
+"NODE_300_length_3718_cov_3.746929"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	7
+"NODE_300_length_3718_cov_3.746929"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	7
+"NODE_305_length_3981_cov_5.865003"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_305_length_3981_cov_5.865003"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_323_length_4578_cov_5.801017"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	30
+"NODE_323_length_4578_cov_5.801017"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	30
+"NODE_324_length_2965_cov_3.493471"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_324_length_2965_cov_3.493471"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_325_length_3998_cov_5.391326"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	30
+"NODE_325_length_3998_cov_5.391326"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	30
+"NODE_33_length_19553_cov_14.475280"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	6
+"NODE_33_length_19553_cov_14.475280"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	6
+"NODE_34_length_57407_cov_132.823685"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	19
+"NODE_34_length_57407_cov_132.823685"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	19
+"NODE_343_length_4498_cov_9.510241"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_343_length_4498_cov_9.510241"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_343_length_5040_cov_8.169910"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_343_length_5040_cov_8.169910"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_345_length_4313_cov_34.753875"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	15
+"NODE_345_length_4313_cov_34.753875"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	15
+"NODE_353_length_2871_cov_5.285156"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	31
+"NODE_353_length_2871_cov_5.285156"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	31
+"NODE_36_length_24676_cov_54.263556"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	11
+"NODE_36_length_24676_cov_54.263556"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	11
+"NODE_36_length_49500_cov_28.060916"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	7
+"NODE_36_length_49500_cov_28.060916"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	7
+"NODE_366_length_3628_cov_5.400784"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_366_length_3628_cov_5.400784"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_367_length_3982_cov_6.343519"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	31
+"NODE_367_length_3982_cov_6.343519"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	31
+"NODE_375_length_1379_cov_2.361027"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_375_length_1379_cov_2.361027"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_38_length_40434_cov_66.147750"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	15
+"NODE_38_length_40434_cov_66.147750"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	15
+"NODE_39_length_11018_cov_5.964973"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_39_length_11018_cov_5.964973"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_39_length_18186_cov_5.820032|provirus_3_8483"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_39_length_18186_cov_5.820032|provirus_3_8483"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_39_length_40881_cov_40.497820"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	8
+"NODE_39_length_40881_cov_40.497820"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	8
+"NODE_390_length_2119_cov_3.486919"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_390_length_2119_cov_3.486919"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_40_length_5207_cov_6.427601"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	11
+"NODE_40_length_5207_cov_6.427601"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	11
+"NODE_40_length_6349_cov_5.400381"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	11
+"NODE_40_length_6349_cov_5.400381"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	11
+"NODE_407_length_6756_cov_5.908073"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_407_length_6756_cov_5.908073"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_41_length_39188_cov_6.935476"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_41_length_39188_cov_6.935476"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_411_length_6617_cov_5.361932"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_411_length_6617_cov_5.361932"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_42_length_32475_cov_10.695774"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	6
+"NODE_42_length_32475_cov_10.695774"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	6
+"NODE_42_length_36164_cov_8.737212"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	8
+"NODE_42_length_36164_cov_8.737212"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	8
+"NODE_42_length_6821_cov_9.625628"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_42_length_6821_cov_9.625628"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_427_length_2990_cov_4.285179"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_427_length_2990_cov_4.285179"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_428_length_2744_cov_4.066567"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_428_length_2744_cov_4.066567"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_43_length_3040_cov_4.376884"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_43_length_3040_cov_4.376884"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_43_length_7522_cov_4.368823"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	5
+"NODE_43_length_7522_cov_4.368823"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	5
+"NODE_44_length_6078_cov_6.900714"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_44_length_6078_cov_6.900714"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_449_length_3548_cov_7.859147"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_449_length_3548_cov_7.859147"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_45_length_21147_cov_17.779585"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_45_length_21147_cov_17.779585"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_457_length_3322_cov_6.401286"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	31
+"NODE_457_length_3322_cov_6.401286"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	31
+"NODE_468_length_3043_cov_5.770080"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_468_length_3043_cov_5.770080"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_469_length_2568_cov_8.139276"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	31
+"NODE_469_length_2568_cov_8.139276"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	31
+"NODE_475_length_2865_cov_5.508185"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	7
+"NODE_475_length_2865_cov_5.508185"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	7
+"NODE_479_length_1248_cov_2.093881"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_479_length_1248_cov_2.093881"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_48_length_39392_cov_13.718484"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_48_length_39392_cov_13.718484"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_498_length_2945_cov_4.607612"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_498_length_2945_cov_4.607612"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_50_length_64286_cov_15.837431|provirus_6014_50609"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	11
+"NODE_50_length_64286_cov_15.837431|provirus_6014_50609"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	11
+"NODE_500_length_2986_cov_4.587172"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_500_length_2986_cov_4.587172"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_503_length_2600_cov_5.917092"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_503_length_2600_cov_5.917092"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_51_length_4179_cov_5.019641"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_51_length_4179_cov_5.019641"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_516_length_2143_cov_4.660441"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_516_length_2143_cov_4.660441"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_52_length_3512_cov_4.416546"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_52_length_3512_cov_4.416546"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_52_length_35146_cov_146.477501"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	6
+"NODE_52_length_35146_cov_146.477501"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	6
+"NODE_536_length_2797_cov_5.823851"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_536_length_2797_cov_5.823851"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_54_length_34912_cov_29.430989"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	11
+"NODE_54_length_34912_cov_29.430989"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	11
+"NODE_560_length_4789_cov_18.278411"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	15
+"NODE_560_length_4789_cov_18.278411"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	15
+"NODE_574_length_2544_cov_6.745279"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	10
+"NODE_574_length_2544_cov_6.745279"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	10
+"NODE_58_length_8379_cov_10.701225"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_58_length_8379_cov_10.701225"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_584_length_2507_cov_6.861338"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	9
+"NODE_584_length_2507_cov_6.861338"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	9
+"NODE_596_length_3718_cov_2.839476"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_596_length_3718_cov_2.839476"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_6_length_52607_cov_9.933057|provirus_1_41423"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_6_length_52607_cov_9.933057|provirus_1_41423"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_60_length_2998_cov_5.003058"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_60_length_2998_cov_5.003058"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_609_length_1276_cov_3.526618"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_609_length_1276_cov_3.526618"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_61_length_2911_cov_3.802871"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	15
+"NODE_61_length_2911_cov_3.802871"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	15
+"NODE_610_length_2856_cov_7.730096"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_610_length_2856_cov_7.730096"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_612_length_3670_cov_4.402490"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_612_length_3670_cov_4.402490"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_618_length_2500_cov_5.937423"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	15
+"NODE_618_length_2500_cov_5.937423"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	15
+"NODE_632_length_4491_cov_6.169973"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_632_length_4491_cov_6.169973"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_636_length_4461_cov_3.897413"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_636_length_4461_cov_3.897413"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_638_length_3566_cov_3.047565"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_638_length_3566_cov_3.047565"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_64_length_16604_cov_16.296695"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_64_length_16604_cov_16.296695"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_64_length_3411_cov_6.318534"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_64_length_3411_cov_6.318534"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_649_length_3541_cov_5.194205"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_649_length_3541_cov_5.194205"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_65_length_2561_cov_4.647646"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	15
+"NODE_65_length_2561_cov_4.647646"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	15
+"NODE_655_length_3520_cov_3.797114"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_655_length_3520_cov_3.797114"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_67_length_2568_cov_2.207322"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_67_length_2568_cov_2.207322"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_683_length_3765_cov_14.952830"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	12
+"NODE_683_length_3765_cov_14.952830"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	12
+"NODE_684_length_1350_cov_2.419305"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_684_length_1350_cov_2.419305"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_71_length_2451_cov_4.832220"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_71_length_2451_cov_4.832220"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_718_length_3957_cov_7.268324"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	10
+"NODE_718_length_3957_cov_7.268324"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	10
+"NODE_72_length_5193_cov_3.367653"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_72_length_5193_cov_3.367653"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_720_length_1472_cov_2.302047"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_720_length_1472_cov_2.302047"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_74_length_2302_cov_3.058300"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_74_length_2302_cov_3.058300"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_76_length_10931_cov_8.148676"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_76_length_10931_cov_8.148676"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_77_length_21821_cov_12.298861"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_77_length_21821_cov_12.298861"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_788_length_3026_cov_16.785594"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_788_length_3026_cov_16.785594"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_796_length_2326_cov_4.740643"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_796_length_2326_cov_4.740643"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_80_length_3898_cov_3.087952"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_80_length_3898_cov_3.087952"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_82_length_5911_cov_4.870902"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	8
+"NODE_82_length_5911_cov_4.870902"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	8
+"NODE_85_length_6973_cov_5.469066"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_85_length_6973_cov_5.469066"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_86_length_11713_cov_9.597701"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_86_length_11713_cov_9.597701"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_86_length_2103_cov_4.534668"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_86_length_2103_cov_4.534668"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_87_length_8976_cov_56.443896"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	13
+"NODE_87_length_8976_cov_56.443896"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	13
+"NODE_89_length_20874_cov_10.217782|provirus_3_14193"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_89_length_20874_cov_10.217782|provirus_3_14193"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_90_length_6946_cov_17.086490"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_90_length_6946_cov_17.086490"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	3
+"NODE_90_length_8128_cov_40.375945"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_90_length_8128_cov_40.375945"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_92_length_5324_cov_4.625546"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	31
+"NODE_92_length_5324_cov_4.625546"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	31
+"NODE_925_length_2493_cov_15.062756"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_925_length_2493_cov_15.062756"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_95_length_4316_cov_6.475006"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	5
+"NODE_95_length_4316_cov_6.475006"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	5
+"NODE_95_length_4885_cov_5.471014"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_95_length_4885_cov_5.471014"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	2
+"NODE_95_length_6809_cov_5.090613"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_95_length_6809_cov_5.090613"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"All logistic values are the same"	"prevalence"	32	32
+"NODE_99_length_2870_cov_2.821314"	"PrePostFVT"	"During"	"PrePostFVTDuring"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4
+"NODE_99_length_2870_cov_2.821314"	"PrePostFVT"	"Post"	"PrePostFVTPost"	NA	0	NA	NA	NA	NA	NA	"grouping factors must have > 1 sampled level"	"prevalence"	32	4

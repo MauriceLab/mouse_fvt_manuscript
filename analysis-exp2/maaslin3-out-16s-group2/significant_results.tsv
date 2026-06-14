@@ -1,0 +1,5 @@
+"feature"	"metadata"	"value"	"name"	"coef"	"null_hypothesis"	"stderr"	"pval_individual"	"qval_individual"	"pval_joint"	"qval_joint"	"error"	"model"	"N"	"N_not_zero"
+"Bifidobacterium breve-1685"	"PrePostFVT"	"Post"	"PrePostFVTPost"	-1.9528822854363	0.234336808567907	0.455862269384762	0.000594884779629365	0.0336127072941929	0.000594884779629365	0.0224084715294619	NA	"abundance"	29	27
+"Enterococcus gilvus-160453"	"PrePostFVT"	"Post"	"PrePostFVTPost"	-2.58229011749685	0.234336808567907	0.635355709821308	0.000896338861178477	0.0336127072941929	0.000896338861178477	0.0224084715294619	NA	"abundance"	29	21
+"Enterococcus gilvus-160453"	"PrePostFVT"	"Post"	"PrePostFVTPost"	-1.90942850561369	0	1.18437908947255	0.10692346945778	0.445514456074082	0.000896338861178477	0.0224084715294619	"Prevalence association possibly induced by stronger abundance association"	"prevalence"	29	21
+"Bifidobacterium breve-1685"	"PrePostFVT"	"Post"	"PrePostFVTPost"	-1.78621928885176	0	1.92860256038062	0.354356170660723	0.780360672013548	0.000594884779629365	0.0224084715294619	"Prevalence association possibly induced by stronger abundance association"	"prevalence"	29	27
