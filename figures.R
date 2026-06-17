@@ -1,6 +1,7 @@
 library(tidyverse)
 library(cowplot)
 library(magick)
+library(ggtext)
 
 #### FIGURE 1 ####
 exp1.model.overview <- ggdraw() + draw_image(image_read_pdf("~/Desktop/Figure1A1.pdf", density = 600))
@@ -9,7 +10,6 @@ diet.plot
 
 fig.1a <- plot_grid(
   exp1.model.overview,
-  #NULL,
   diet.plot,
   ncol = 2,
   rel_widths = c(1, 0.5),
@@ -101,7 +101,7 @@ save_plot("~/Desktop/Figure2.pdf", fig.2, dpi = 600, base_height = 6, base_width
 
 
 #### FIGURE 3 ####
-exp2_3.model.overview <- ggdraw() + draw_image(image_read_pdf("~/Desktop/Figure3A.pdf", density = 600))
+exp2_3.model.overview <- ggdraw() + draw_image(image_read_pdf("~/Desktop/Figure3A1.pdf", density = 600))
 
 fig.3b
 
@@ -115,11 +115,10 @@ fig.3d
 
 fig.3 <- plot_grid(
   plot_grid(
-    #exp2_3.model.overview,
-    NULL,
+    exp2_3.model.overview,
     fig.3b,
     nrow = 1,
-    rel_widths = c(1, 0.9),
+    rel_widths = c(1, 0.6),
     labels = c("A", "B")
   ),
   plot_grid(
